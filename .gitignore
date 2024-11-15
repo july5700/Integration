@@ -1,0 +1,7 @@
+# log and os file
+BX/BXCN_OS5.2/
+BX/output/
+BX/__pycache__/
+
+# config file
+*.toml

@@ -1,0 +1,1 @@
+E:\ProgramFiles\allure-2.30.0\bin\allure.bat open .\report\
