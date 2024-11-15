@@ -1,0 +1,36 @@
+[[versions]]
+version = "5.2.6.79"
+date = "2024.11.14_13:16:00"
+link = "https://hw-snc-jfrog-dmz.zeekrlife.com/artifactory/zeekr/8295_ZEEKR/daily_8155/BXCN_OS5.2/Release/V5.2.6.77/b_Package_USB.zip"
+path = "C:/Users/qdai4/Desktop/Integration/BX/BXCN_OS5.2/Release/V5.2.6.77/b_Package_USB.zip"
+
+[[versions]]
+version = "5.2.6.19"
+date = "2024.11.14_13:16:00"
+link = "https://hw-snc-jfrog-dmz.zeekrlife.com/artifactory/zeekr/8295_ZEEKR/daily_8155/BXCN_OS5.2/Release/V5.2.6.19/b_Package_USB.zip"
+path = "C:/Users/qdai4/Desktop/Integration/BX/BXCN_OS5.2/Release/V5.2.6.19/b_Package_USB.zip"
+
+[[versions]]
+version = "5.2.6.11"
+date = "2024.11.14_13:16:00"
+link = "https://hw-snc-jfrog-dmz.zeekrlife.com/artifactory/zeekr/8295_ZEEKR/daily_8155/BXCN_OS5.2/Release/V5.2.6.11/b_Package_USB.zip"
+path = "C:/Users/qdai4/Desktop/Integration/BX/BXCN_OS5.2/Release/V5.2.6.11/b_Package_USB.zip"
+
+[current_verion]
+version = ""
+path = ""
+
+[common]
+web = "https://hw-snc-jfrog-dmz.zeekrlife.com/"
+api = "AKCpBtMeWfUXQFtgWQvxYZUQKcriEQgdQCBShmA14rQtaa6TqJAHBspzGnPJc5Kr34JixcwD3"
+https_proxy = "http://136.18.250.7:83"
+http_proxy = "http://136.18.250.7:83"
+directory = "C:/Users/qdai4/Documents/integration_BX_Latest/downtemp.zip"
+qnx_port = "com4"
+
+[parameter]
+is_proxies = true
+
+[current_version]
+version = "7.7.7.71"
+path = "C:\\Users\\qdai4\\Desktop\\Integration\\BX\\BXCN_OS5.2/Release/V6.6.6.61\\a_Package_USB.zip"
