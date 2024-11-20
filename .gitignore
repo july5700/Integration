@@ -2,6 +2,8 @@
 BX/BXCN_OS5.2/
 BX/output/
 BX/__pycache__/
-
+ReportBat/allure-report/
+ReportBat/allure-results/
+ReportBat/testoutput/
 # config file
 *.toml
