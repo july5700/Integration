@@ -1,12 +1,19 @@
-# log and os file
-BX/BXCN_OS5.2/
+# report folder
 BX/output/
-BX/__pycache__/
-BX/try.py
-*/__pycache__/
-.idea/
 ReportBat/allure-report/
+ReportBat/allure/
 ReportBat/allure-results/
 ReportBat/testoutput/
+
 # config file
 *.toml
+
+
+# os file and other
+BX/BXCN_OS5.2/
+BX/__pycache__/
+ToDo.txt
+.idea/
+CaseList/__pycache__/
+PrivateLib/__pycache__/
+PrivateLib/__pycache__/
