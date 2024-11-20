@@ -1,0 +1,3 @@
+2024-11-18 11:12:32.366 | INFO     | PrivateLib.ADB:read_output:142 - Output:
+0
+

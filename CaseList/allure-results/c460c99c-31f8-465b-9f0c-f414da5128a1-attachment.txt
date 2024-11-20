@@ -1,0 +1,4 @@
+2024-11-18 11:12:32.518 | INFO     | PrivateLib.ADB:run_multiple_shell_commands:76 - Will send command:adb shell "svc wifi enable && sleep 1 && ifconfig | grep wlan0"
+2024-11-18 11:12:33.663 | INFO     | PrivateLib.ADB:run_multiple_shell_commands:84 - Output:
+wlan0     Link encap:UNSPEC    Driver cnss_pci
+

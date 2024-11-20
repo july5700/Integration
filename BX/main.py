@@ -19,8 +19,10 @@ if __name__ == '__main__':
     # logger.info(ini_cache.read_cfg('common', 'api'))
     art = Artifactory()
     art.main()
-    src_zip = toml_cache.read('current_version.version')
+    src_zip = toml_cache.read('current_version.path')
+    logger.info(f"source zip path = {src_zip}")
     tar_path = src_zip + 'unzip'
+    logger.info(f"target zip path = {tar_path}")
     # 解压缩
     unzip_result = unzip_file_with_progress(src_zip, tar_path)
     unzip_file = os.path.join(tar_path, 'b_Package_USB\\UpdatePackage')

@@ -1,0 +1,2 @@
+result = CompletedProcess(args='adb shell "svc wifi enable && sleep 1 && ifconfig | grep wlan0"', returncode=0, stdout=b'wlan0     Link encap:UNSPEC    Driver cnss_pci\r\n', stderr=b''), type of result is <class 'subprocess.CompletedProcess'>
+result is True

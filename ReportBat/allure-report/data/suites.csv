@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"预期结果：wlan0不存在","4205","查看wifi是否关闭","CaseList","Mon Nov 18 11:18:41 CST 2024","passed","Mon Nov 18 11:18:45 CST 2024","TestWIFI","test_wifi","",""
+"预期结果：settings get global bluetooth_on输出0","7657","查看BT是否关闭","CaseList","Mon Nov 18 11:18:29 CST 2024","passed","Mon Nov 18 11:18:37 CST 2024","TestBT","test_bt","",""
+"预期结果：wlan0存在","4139","查看wifi是否打开","CaseList","Mon Nov 18 11:18:37 CST 2024","passed","Mon Nov 18 11:18:41 CST 2024","TestWIFI","test_wifi","",""
+"预期结果：wlan存在","107","查看WLAN驱动是否挂载","CaseList","Mon Nov 18 11:18:37 CST 2024","passed","Mon Nov 18 11:18:37 CST 2024","TestWIFI","test_wifi","",""
+"预期结果：settings get global bluetooth_on输出1","7681","查看BT是打开","CaseList","Mon Nov 18 11:18:21 CST 2024","passed","Mon Nov 18 11:18:29 CST 2024","TestBT","test_bt","",""

@@ -1,0 +1,5 @@
+2024-11-18 11:12:32.384 | INFO     | PrivateLib.ADB:run_shell_command:47 - Will send command:adb shell "lsmod | grep wlan"
+2024-11-18 11:12:32.499 | INFO     | PrivateLib.ADB:run_shell_command:53 - Output:
+wlan                 8953856  0 
+cnss2                 290816  2 wlan
+
